@@ -9,7 +9,7 @@ Create admins, contact, members, newsletter, partners and roles tables in this d
 
 ### Advice to those who want to clone and develop.
 1- To make the web page completely dynamic.<br>
-2- Adding theme<br>
+2- Add theme<br>
 3- Remove single page design.<br>
 
 Don't forget to change config.php 
