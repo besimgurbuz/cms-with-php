@@ -4,7 +4,7 @@ I have created a sample with php for cms. Those who wish may take it and continu
 It is now at the basic level. <br>
 
 ### Setup
-Create a database with the name you specified in config.php <br>
+Create a MySQL database with the name you specified in config.php <br>
 Create admins, contact, members, newsletter, partners and roles tables in this database. <br>
 
 ### Advice to those who want to clone and develop.
