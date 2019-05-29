@@ -1,0 +1,162 @@
+body{
+    font-size:18px;
+    font-family: 'Thasadith', sans-serif;
+}
+h1,h2,h3{
+    font-family: 'Staatliches', cursive;
+}
+body p{
+    font-family: sans-serif;
+}
+.navbar{
+    height: 80px;
+    background: transparent;
+    transition-duration: 0.6s;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.nav-item{
+    color: #5c626d;
+}
+.sticky-bar{
+    height: 64px;
+    background: #f7f7f7;
+}
+.jumbotron{
+    height: 600px;
+    padding: 10% 0;
+    margin-bottom: 0 !important;
+}
+.move {
+    transform: translateY(0) !important;
+}
+.go-down {
+    transition-property: all;
+    transform: translateY(-50px);
+    transition: ease 1.5s;
+}
+
+.go-up {
+    transition-property: all;
+    transform: translateY(50px);
+    transition: ease 1.5s;
+}
+.section-header{
+    margin-left: 30%;
+    max-width: 40%;
+    padding-bottom: 2%;
+    border-bottom: 1px solid #5c626d;
+}
+#about-us{
+    padding: 5% 0;
+}
+#about-us .row{
+    margin: 3% 0;
+}
+#our-team{
+    background: #f7f7f7;
+    padding: 5% 0 ;
+}
+#our-team .row{
+    margin: 3% 0;
+}
+.team_member_img{
+    height: 200px;
+    width: 200px;
+    margin-top: 100px;
+    border-radius: 50%;
+    margin-bottom: 10%;
+}
+.socials i{
+    height: 30px;
+    width: 30px;
+    padding-top: 6px;
+    background-color: #5c626d;
+    border-radius: 50%;
+    color: #f1f1f1;
+}
+.socials i:hover{
+    color: #191e23;
+}
+#certifications{
+     padding: 5% 0;
+}
+#certifications .row{
+    margin: 10% 0;
+}
+#certifications img{
+    height: 220px;
+    width: 200px;
+    opacity: 0.6;
+}
+#csr{
+    color: white;
+    padding: 5% 0;
+    background: url("../assets/csr_back.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#csr .row{
+    margin: 3% 0;
+}
+#product-and-services{
+    padding: 5% 0;
+    background:#ffffff;
+}
+#product-and-services .row{
+    margin: 3% 0;
+}
+#product-and-services h4{
+    font-size: 22px;
+    opacity: 0.85;
+}
+#partners{
+    padding: 5% 0;
+    background: #f7f7f7;
+}
+#partners h3{
+    font-size: 25px;
+}
+#partners img{
+    margin: 2% 0;
+    opacity: 0.6;
+}
+#partners img:hover {
+    opacity: 1;
+}
+#career{
+    padding: 5% 0;
+}
+#career .row{
+    margin: 3% 0;
+}
+#career thead tr {
+    margin: 0 5%;
+}
+#contact{
+
+    padding: 5% 0;
+    background: #f7f7f7;
+}
+#contact i{
+    width: 70px;
+    color: white;
+    background: #5c626d;
+    padding-left: 10%;
+    border-radius: 50%;
+    height: 70px;
+    padding-top: 10%;
+    margin-bottom: 10%;
+}
+#contact .row{
+    padding: 3% 0;
+}
+#footer{
+    background: #212530;
+    padding: 1.5% 0 0 0;
+    color: #f7f7f7 !important;
+
+}

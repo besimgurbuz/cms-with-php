@@ -1,0 +1,16 @@
+#none{
+    padding: 20% 0;
+    text-align: left;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+}
+#footer{
+    position: fixed;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+}
