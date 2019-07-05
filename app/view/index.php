@@ -299,15 +299,15 @@
                 <div class="col-sm-2 go-up">
                     <i class="fas fa-map fa-2x"></i>
                     <h5>Address</h5>
-                    <p class="text-muted">Office 603 – Al Bustan Building Al Sadd, P.O.Box 1642, Doha, Qatar</p>
+                    <p class="text-muted"></p>
 
                 </div>
                 <div class="col-sm-2 go-up">
                     <i class="fas fa-phone fa-2x"></i>
                     <h5>Telephone</h5>
-                    <p class="text-muted">+974 4411 5335</p>
+                    <p class="text-muted"></p>
                     <h5>Fax</h5>
-                    <p class="text-muted">+974 4411 5334</p>
+                    <p class="text-muted"></p>
                 </div>
             <div class="col-sm-3 offset-1">
                 <h5 class="go-down">Subscribe to our newsletter</h5>
