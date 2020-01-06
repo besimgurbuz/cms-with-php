@@ -7,7 +7,7 @@ It is now at the basic level. <br>
 Create a MySQL database with the name you specified in config.php <br>
 Create admins, contact, members, newsletter, partners and roles tables in this database. <br>
 
-### Advice to those who want to clone and develop.
+### Advice to those who want to contribute.
 1- To make the web page completely dynamic.<br>
 2- Add theme<br>
 3- Remove single page design.<br>
