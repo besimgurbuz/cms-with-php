@@ -223,7 +223,7 @@
             </div>
             <div class="row">
                 <div class="col go-down">
-                    <h4>Working for Containment Security Service</h4>
+                    <h4>Working for Example Componey</h4>
                     <p>It is a great personal fulfilment to any professional that is aiming to improve his/ her skills
                         and knowledge in a dynamic, fast growing corporation, that is dedicated to continuous training
                         and improvement of service.</p>
